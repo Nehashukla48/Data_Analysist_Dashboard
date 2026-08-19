@@ -1,2 +1,10 @@
-# Data_Analysist_Dashboard
-# Hospital Emergency Room Dashboard  Created a simple **Hospital Emergency Room Dashboard using Microsoft Excel** to analyze patient data and emergency room performance.  **Key insights:** Total Patients, Patient Admission, Average Waiting Time, Patient Demographics, and Patient Satisfaction. use- Microsoft Excel, Pivot Tables, Charts, and Slicers.
+# Hospital Emergency Room Dashboard(Interactive Dashboard Creation using MS Excel)
+Project Overview
+
+The Hospital Emergency Room Dashboard is an interactive dashboard created in Microsoft Excel to analyze and monitor emergency room patient data. It provides a monthly view of important patient and emergency room performance metrics.
+
+The dashboard is designed with interactive Year and Month filters, allowing users to analyze data for different time periods.
+
+2. Objective
+
+The main objective of this dashboard is to provide a simple and interactive way to understand emergency room activity and patient-related information.
