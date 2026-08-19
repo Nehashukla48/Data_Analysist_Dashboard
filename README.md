@@ -24,6 +24,6 @@ Department Referrals: Number and distribution of patients referred to different 
 Patient Volume by Time: Analysis of patient arrivals across different hours/days.
 Patient Volume by Month: Monthly trend of emergency room visits.
 
-
+- <a href="https://github.com/Nehashukla48/Data_Analysist_Dashboard/blob/main/Screenshot%202026-08-16%20133520.png">View Dashboard<a/>
 
 
