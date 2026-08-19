@@ -27,4 +27,9 @@ Patient Volume by Month: Monthly trend of emergency room visits.
 
 - <a href="https://github.com/Nehashukla48/Data_Analysist_Dashboard/blob/main/Screenshot%202026-08-16%20133520.png">View Dashboard<a/>
 
+Process
+1. Data Collection → 2. Data Cleaning & Transformation → 3. Data Analysis → 4. KPI Creation → 5. Dashboard Development → 6. Insights & Interpretation → 7. Final Presentation
+
+Dashboard-
+<img width="931" height="473" alt="Screenshot 2026-08-16 133520" src="https://github.com/user-attachments/assets/17741281-7227-4245-9fc9-6a791b94033f" />
 
